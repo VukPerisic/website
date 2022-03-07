@@ -29,7 +29,7 @@
     transition-timing-function: ease-in;
 }
 
-#headline{
+.headline{
     text-align: center;
     vertical-align: top;
     font-size: 60px;
